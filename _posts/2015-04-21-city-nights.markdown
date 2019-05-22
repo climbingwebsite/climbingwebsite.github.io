@@ -1,20 +1,113 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
-author: "Wferr"
+title:  "Climbing in Finale Ligure - Italy"
+subtitle: "A Beautiful roadtrip"
+author: "RaRa"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
 date:   2015-04-21 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+# Climbing in Finale Ligure - Italy
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+Finale Ligure is a famous climbing destination, not only for the quality rock and multi-pitch walls, but also for the marvelous surroundings: old villages with narrow streets, super tasty food & coffee, mountains and sea - all in the same place. It feels like staying there forever!
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+![image](img/Finale/IMG_20190422_143928.jpg)
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+_Lago d'Idro.. on the way to Finale_
+
+The Van rolled over **1200km**, to bring us to Finale... and it only broke once! We were on the way, 4 and half days... This car goes slowly, but surely.
+
+_Sunrise somewhere, on the way.._
+![image](img/Finale/DSC09701.jpg)
+
+
+_Lago d'Idro, with interesting rock formations_
+
+![image](img/Finale/IMG_20190422_171220.jpg)
+
+## 1. Finale
+
+Finale Ligure is a village on the shore of the sea - that spreads its tentacles towards the mountains in three separate valleys. The climbing areas are spread all over the hills that surround those valleys. **Big walls, small hidden cliffs, rock towers or weird caves** - there is everything you can imagine! 
+
+_Tre Frati, a rock tower; route: 6a_
+![image](img/Finale/IMG_20190416_160148_01.jpg)
+
+The quality of the rock here is very good. It is a solid type of **limestone**, frequently with **pockets** and **sharp edges** and even **tufas** here and there. It can be quite harsh for the hands in the first few days, but then, it gets much better, once you get used to the style. The bolting is very generous on most of the crags, sometimes a bit too generous I would say..
+
+_Super nice pockets, I love them!_
+![image](img/Finale/IMG_20190416_130032_01.jpg)
+
+_Inspecting a route on Falesia della Coccinella_
+![image](img/Finale/IMG_20190416_144640.jpg)
+
+**Caves** are "a must see" here. Even if the overhang routes are quite hard, you can always just fool around doing some bouldering, enjoy lunch in a nice cozy place or spend a night bivouacking next to the crags. No matter what, you will surely enjoy bumping into one of the hidden caves around here.
+
+_They even left the quickdraws on this route.._
+![image](img/Finale/IMG_20190416_104313.jpg)
+
+_Just playing around_
+![image](img/Finale/IMG_20190418_153705_01.jpg)
+
+Most of the routes are accessible from **Finalborgo**, the northern part of Finale Ligure village, and the place where we had our "base-camp". It is a pleasure to have a pizza here at the end of a climbing day!
+
+_Finalborgo and the sea.._
+
+![image](img/Finale/IMG_20190415_165400.jpg)
+
+For the **multi-pitch** enthusiasts, there are plenty of routes to choose from. Three, four, five, six.. ten? How many pitches would you like?
+
+_Second pitch here, Placa dei Maleducati, route: Degna de tua sorella, 6a_
+![image](img/Finale/IMG_20190417_184358.jpg)
+
+![image](img/Finale/IMG_20190417_184401.jpg)
+![image](img/Finale/IMG_20190417_184323.jpg)
+
+
+
+Gorges, canyons, waterfalls in the area, none of them should be missed.
+
+![image](img/Finale/IMG_20190422_132333.jpg)
+
+_Canyon with waterfall_
+
+![image](img/Finale/IMG_20190417_194206.jpg)
+
+
+
+
+
+
+![image](img/Finale/IMG_20190416_124551.jpg)
+
+_Overpacking..?_
+
+![image](img/Finale/IMG_20190414_130025.jpg)
+
+## 2. The most friendly climbing-place on Earth 
+
+On the way to Finale, we made a short break in an italian town called **Bolzano**, where we were pleasantly surprised to find a nice climbing area - one of the most friendly so far. 
+The rock here is a type of red-ish **granite**, with long cracks and squared blocks. The holds are quite spaced sometimes; nice climbing style.. Routes are from 5c to 7b.
+
+_Paintings on the way up_
+![image](img/Finale/IMG_20190413_190049.jpg)
+
+_Shelter for climbers, next to the crags, including topo, planted flowers and a guest book_
+![image](img/Finale/IMG_20190413_185651.jpg)
+
+_Route, 6a_
+
+![image](img/Finale/IMG_20190413_173609.jpg)
+
+![image](img/Finale/IMG_20190413_172058.jpg)
+![image](img/Finale/IMG_20190413_161102.jpg)
+
+_Bolzano at sunset, before the storm_
+![image](img/Finale/DSC09696.jpg)
+
+_Topo, Bolzano granite cliffs_
+![image](img/Finale/IMG_20190413_184804.jpg)
+
+#### As a climber, northern Italy is surely a place to go! Climbing areas are all over the territory, from the sea, up to the border with Germany, with a huge variety of rock types, climbing styles and difficulties. Just.. take your time!
+
+

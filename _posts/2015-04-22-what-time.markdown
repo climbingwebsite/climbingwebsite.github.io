@@ -1,20 +1,94 @@
 ---
-title:  "Watches"
+title:  "Indoor climbing in Prague"
 subtitle: "The Bigger the better?"
-author: "Wferr"
+author: "RaRa"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
 date:   2015-04-22 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+# Indoor climbing in Prague
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+_Having such a strong climbing tradition and impressive sandstone valleys all over the country, the Czechs had to make sure they won't miss out during the work week or on long rainy days. As a result, they have plenty of awesome **indoor climbing** halls: one better than the other!_ 
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+_Moreover, keeping up with the high demand, the routes get changed very often: there is just no time to get bored in **Prague**!_
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+## Rope climbing + bouldering
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+### 1.  SmichOFF
+
+![image](img/Indoor/IMG_20190404_210130.jpg)
+
+
+* maximum height: 15,5m
+* number of routes: 331 or ~2000 m2
+* price: 80-170 kc (3-7 euro) 
+* auto-belays: 6
+* where: Prague 5
+
+[www.lezeckecentrum.cz](http://www.lezeckecentrum.cz/)
+
+### 2. Big Wall
+
+![image](img/Indoor/DSC09683.jpg)
+
+* maximum height: 20m
+* number of routes: ~3000 m2
+* price: 100-180 kc (4-8 euro) 
+* auto-belays: 2
+* where: Prague 9
+
+[www.big-wall.cz](http://www.big-wall.cz/)
+
+### 3. Stena Holesovice
+
+![image](img/Indoor/DSC09690.jpg)
+
+* maximum height: 12m
+* number of routes: ~300 or ~2600 m2
+* price: 40-125 kc (1,5-5 euro) 
+* auto-belays: 0
+* where: Prague 7
+
+[www.stenaholesovice.cz](http://www.stenaholesovice.cz/)
+
+### 4. Free Solo
+
+* maximum height: 18m
+* number of routes: ~300 
+* price: 100-140 kc (4-6 euro) 
+* auto-belays: ?
+* where: Prague 11
+
+[freesolo.cz](http://freesolo.cz/)
+
+## Bouldering
+
+### 1. Boulder Bar
+
+![image](img/Indoor/DSC09692.jpg)
+
+* maximum height: 4,3 m
+* number of routes: ~300 m2, ~ 5000 holds
+* price: 130 kc (~5 euro) 
+* where: Prague 7
+
+[www.boulder.cz](https://www.boulder.cz/)
+
+### 2. Boulder v Siti
+
+* maximum height: ?
+* number of routes: ~260 m2, ~3000 holds
+* price: 80 kc (3 euro) 
+* where: Prague Old Town
+
+[www.bouldervsiti.cz](https://www.bouldervsiti.cz/)
+
+
+
+
+
+
+
+
+
