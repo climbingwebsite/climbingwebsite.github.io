@@ -47,7 +47,7 @@
 	position: fixed;
 }
 
-.card__content {
+.card__content content {
 	position: relative;
 	width: 100%;
 	max-width: 800px;
