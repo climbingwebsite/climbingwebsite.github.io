@@ -174,10 +174,27 @@
 }
 
 @media only screen and (max-width: 400px) {
-    .card {
-		width: 96%;
-		padding-bottom: 67.2%;
-	}
+    .card.\31 25\25 {
+			width: 100%;
+			max-width: 1200px;
+			min-width: 960px;
+		}
+
+		.card.\37 5\25 {
+			width: 720px;
+		}
+
+		.card.\35 0\25 {
+			width: 480px;
+		}
+
+		.card.\32 5\25 {
+			width: 240px;
+		}
+
+		.card {
+			width: 960px;
+		}
 	.card__caption {
 		font-size: 1.25em;
 		padding: 35px 0px 0px;
