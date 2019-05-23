@@ -1,6 +1,11 @@
 
 /*CARD */
 
+.blog-img img {
+  height: auto;
+  min-width: 100%;
+}
+
 .card {
 	position: relative;
 	float: left;
