@@ -177,7 +177,7 @@
     .card {
 		width: 100%;
 	    max-width: 1200px;
-		min-width: 960px;
+		min-width: 100px;
 	}
 	.card__caption {
 		font-size: 1.25em;
