@@ -3,6 +3,7 @@
 
 
 
+
 .card {
 	position: relative;
 	float: left;
@@ -28,7 +29,7 @@
 	overflow: hidden;
 }
 
-.card__image image {
+.card__image {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -47,7 +48,7 @@
 	position: fixed;
 }
 
-.card__content content {
+.card__content {
 	position: relative;
 	width: 100%;
 	max-width: 800px;
