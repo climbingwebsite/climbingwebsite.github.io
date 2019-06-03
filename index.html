@@ -24,24 +24,48 @@ layout: compress
             root.setAttribute('class', 'ff');
         }
     </script>
+
+
+
+
+
 </head>
 <body class="body">
 <div class="container">
     <header class="header">
+<br></br>
+<br></br>
         <h1>Climb & Travel<span>Grateful mood</span></h1>
-        <nav class="links">
-            <a href="#"><i class="fa fa-twitter-square fa-3x"></i></a>
+
+
+<nav class="links">
+           
             <a href="#"><i class="fa fa-instagram fa-3x"></i></a>
             <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a>
-            <a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a>
+            
         </nav>
+
+
+<ul>
+	<li><a href="index.html">Home</a></li>
+	<li><a href="about.html">About</a>
+	<li><a href="contact.html">Contact</a>
+
+</ul>
+
+
+
+
     </header>
+
+
     <div class="content">
         <!-- trianglify pattern container -->
         <div class="pattern pattern--hidden"></div>
         <!-- cards -->
         <div class="wrapper">
             {% for post in site.posts %}
+
             <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
                     <svg class="card__image" xmlns="http://www.w3.org/2000/svg"

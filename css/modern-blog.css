@@ -1,9 +1,6 @@
 
 /*CARD */
 
-
-
-
 .card {
 	position: relative;
 	float: left;
@@ -174,11 +171,6 @@
 }
 
 @media only screen and (max-width: 400px) {
-    
-    .card__content {
-	max-width: 100%;
-}
-
 	.card__caption {
 		font-size: 1.25em;
 		padding: 35px 0px 0px;
@@ -251,7 +243,7 @@ a:focus {
 }
 
 .body a {
-	color: #4f4c4c;
+	color: #000000;
 }
 
 .body .header h1 span {
@@ -294,15 +286,25 @@ a:focus {
 .links a {
 	display: inline-block;
 	margin: 0 .5em;
+
 }
+
+/* text in about and contact section */
+
+.text {
+    font-size: 1.2em;
+	text-align: center;
+}
+    
 
 /* cards wrapper and close btn */
 
 .wrapper {
 	overflow: auto;
-	width: 95%;
+	width: 90%;
 	max-width: 1366px;
 	margin: 0 auto;
+    float: right;
 }
 
 @media screen and (max-width: 50em) {
@@ -364,3 +366,83 @@ a:focus {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
 }
+
+
+
+
+
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+
+}
+
+ul{
+    position: fixed;
+	display: block;
+	width: 10%;
+	height: 5vh;
+	margin: auto;
+	max-width: 1000px;
+	justify-content: space-between;
+	text-align: left;
+   
+  
+}
+li {
+
+  padding: 1rem 2rem 1.15rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: #000000;
+	min-width: 80px;
+	margin: auto;
+}
+
+li:hover {
+
+border-radius: 25px;
+  background-color: rgba(50,0,0,.3);
+  background-size: 100% 100%;
+  color: #27262c;
+  animation: spring 300ms ease-out;
+  text-shadow: 0 -1px 0 #ef816c;
+	font-weight: bold;
+}
+li:active {
+  transform: translateY(4px);
+}
+
+@keyframes spring {
+  15% {
+    -webkit-transform-origin: center center;
+    -webkit-transform: scale(1.2, 1.1);
+  }
+  40% {
+    -webkit-transform-origin: center center;
+    -webkit-transform: scale(0.95, 0.95);
+  }
+  75% {
+    -webkit-transform-origin: center center;
+    -webkit-transform: scale(1.05, 1);
+  }
+  100% {
+    -webkit-transform-origin: center center;
+    -webkit-transform: scale(1, 1);
+  }
+}
+
+.shameless-plug{
+  position: absolute;
+  bottom: 10px;
+  right: 0;
+  padding: 8px 20px;
+  color: #ccc;
+  text-decoration: none;
+}
+
+
