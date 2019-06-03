@@ -1,8 +1,8 @@
 ---
 title:  "Climbing in Finale Ligure - Italy"
 subtitle: "A Beautiful roadtrip"
-author: "RaRa"
-avatar: "img/authors/wferr.png"
+author: "GratefulMood"
+avatar: "img/authors/GratefulMood.png"
 image: "img/b.jpg"
 date:   2015-04-21 12:12:12
 ---

@@ -1,8 +1,8 @@
 ---
 title:  "Self rescue in climbing"
 subtitle: "Be prepared."
-author: "RaRa"
-avatar: "img/authors/wferr.png"
+author: "GratefulMood"
+avatar: "img/authors/GratefulMood.png"
 image: "img/f.jpg"
 date:   2018-04-25 12:12:12
 ---
@@ -116,11 +116,11 @@ There are three more pitches, so you need to ascend the rope as fast as you can 
 
 ### 3.4 Using the knots above to ascend the rope
 
+**Note**: If you choose the Garda hitch or the Belay device, you will need to "install" them while stepping onto the ladder, in order to un-load the rope!
+
 1. Make a "slide and grip" knot (Klemheist or Prusik) on the rope and attach a sling to it: that will be your ladder.
 
 2. Underneath, make a second locking-system, this time - attached to your harness with a carabine. Choose any of the three techniques described above (Klemheist, Garda or Belay device).
-
-**Note**: If you choose the Garda hitch or the Belay device, you will need to "install" them while stepping onto the ladder, in order to un-load the rope!
 
 3. Now step onto the ladder, ascend the knot attached to your harness, load it, slide the ladder knot upwards and step again into the ladder. Repeat until you reach the rocks or the anchor point.
 

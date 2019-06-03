@@ -1,8 +1,8 @@
 ---
 title:  "Indoor climbing in Prague"
 subtitle: "The Bigger the better?"
-author: "RaRa"
-avatar: "img/authors/wferr.png"
+author: "GratefulMood"
+avatar: "img/authors/GratefulMood.png"
 image: "img/c.jpg"
 date:   2015-04-22 12:12:12
 ---

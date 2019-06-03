@@ -1,8 +1,8 @@
 ---
 title:  "Climbing in Czech Republic"
 subtitle: "The paradise of sandstone"
-author: "RaRa"
-avatar: "img/authors/wferr.png"
+author: "GratefulMood"
+avatar: "img/authors/GratefulMood.png"
 image: "img/d.jpg"
 date:   2015-04-23 12:12:12
 ---
@@ -17,7 +17,8 @@ _Before I came here, I had no idea that climbing is so popular in the Czech Repu
 
 While climbing is so present in the country's sport scene, there are also strong rules about when and how it can be practiced outdoors:
 
-* **There is little or no use of bold rings** - that means that you need to master the use of additional climbing equipment such as nuts or slings. But that is not all: because the sandstone is a very fragile rock, you can use additional equipment only if it is not made of metal. That means that you will need to use devices like these:
+
+* **There is little or no use of bold rings** - that means that you need to master the use of additional climbing equipment such as nuts or slings. But that is not all: because the sandstone is a very fragile rock, you can use additional equipment only if it is not made of metal. That means that you will need to use devices like the ones below;
 
 ![image](img/Labek/DSC09630.jpg)
 
