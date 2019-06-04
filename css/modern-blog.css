@@ -179,6 +179,15 @@
 		font-size: 90%;
 		padding: 25px 0px 100px;
 	}
+.card__content {
+	position: relative;
+	width: 100%;
+	max-width: 1200px;
+	height: auto;
+	margin: 150px auto 60px;
+	padding: 30px 40px 22px;
+	background: #fff;
+}
     
 }
 
