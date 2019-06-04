@@ -182,7 +182,7 @@
     .card__content {
 	position: relative;
 	width: 100%;
-	max-width: 400px;
+	max-width: 50px;
 	height: auto;
 	margin: 150px auto 60px;
 	padding: 30px 40px 22px;
