@@ -4,7 +4,7 @@ subtitle: "The paradise of sandstone"
 author: "GratefulMood"
 avatar: "img/authors/GratefulMood.png"
 image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+date:   2019-03-23 12:12:12
 ---
 
 # Climbing in Czech Republic

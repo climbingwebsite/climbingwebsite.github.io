@@ -4,7 +4,7 @@ subtitle: "The Bigger the better?"
 author: "GratefulMood"
 avatar: "img/authors/GratefulMood.png"
 image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+date:   2019-02-22 12:12:12
 ---
 
 # Indoor climbing in Prague

@@ -1,10 +1,10 @@
 ---
 title:  "Self rescue in climbing"
-subtitle: "Be prepared."
+subtitle: "When things turn unexpected"
 author: "GratefulMood"
 avatar: "img/authors/GratefulMood.png"
 image: "img/f.jpg"
-date:   2018-04-25 12:12:12
+date:   2019-05-25 12:12:12
 ---
 
 # Self-rescue in climbing

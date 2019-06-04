@@ -48,9 +48,9 @@
 .card__content {
 	position: relative;
 	width: 100%;
-	max-width: 800px;
+	max-width: 900px;
 	height: auto;
-	margin: 400px auto 60px;
+	margin: 150px auto 60px;
 	padding: 30px 40px 22px;
 	background: #fff;
 }
@@ -101,7 +101,7 @@
 }
 
 .card__copy {
-	font-size: 1.25em;
+	font-size: 1em;
 	max-width: 900px;
 	margin: 0 auto;
 	padding: 25px 30px 100px;
@@ -179,6 +179,15 @@
 		font-size: 90%;
 		padding: 25px 0px 100px;
 	}
+    .card__content {
+	position: relative;
+	width: 100%;
+	max-width: 400px;
+	height: auto;
+	margin: 150px auto 60px;
+	padding: 30px 40px 22px;
+	background: #fff;
+}
 }
 
 
@@ -298,10 +307,10 @@ a:focus {
 
 .wrapper {
 	overflow: auto;
-	width: 90%;
+	width: 85%;
 	max-width: 1366px;
 	margin: 0 auto;
-    float: right;
+    
 }
 
 @media screen and (max-width: 50em) {
